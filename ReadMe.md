@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Thiago Steindorff<br><br>Data Scientist | Bioinformatician | Geneticist<br><br>I’m a data scientist with a Bachelor’s in Biomedical Sciences and dual Master’s degrees in Genetics & Bioinformatics and Genetics & Molecular Biology (UFRGS)
+👋 Hi, I'm Thiago Steindorff<br><br> Bioinformatician | Geneticist<br><br>I’m a data scientist with a Bachelor’s in Biomedical Sciences and i'm concluding my Master’s degrees in Genetics & Molecular Biology (UFRGS)
 
 
 # 💻 Tech Stack:
