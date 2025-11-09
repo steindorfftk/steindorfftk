@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=steindorfftk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=steindorfftk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steindorfftk&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=steindorfftk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
